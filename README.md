@@ -2,7 +2,7 @@
 
 ###   Se você quiser instalar o Linux Mint em uma máquina virtual usando o VirtualBox, você pode seguir este passo a passo:
 
-![Alt text](image-3.png)
+![Alt text](foto/image-2.png)
 1. **Baixe o VirtualBox**: Se você ainda não tiver o VirtualBox instalado, baixe e instale a versão adequada para o seu sistema operacional a partir do site oficial: [VirtualBox Downloads](https://www.virtualbox.org/wiki/Downloads).
 
 
@@ -36,7 +36,7 @@
 Este processo deve permitir que você instale o Linux Mint em uma máquina virtual usando o VirtualBox. Se precisar de mais ajuda ou tiver alguma dúvida específica durante o processo, estou aqui para ajudar!
 
 ---------------------------------------------------------
-![Alt text](image-2.png)
+
 
 
 ## Agora a instalação do dentro do linux ja feito:
@@ -47,38 +47,38 @@ Este processo deve permitir que você instale o Linux Mint em uma máquina virtu
 
 
 ### 1° Passo: Selecione a forma que você deseja baixar o linux mint.
-![Alt text](image-5.png)
+![Alt text](foto/image-5.png)
 
 
 ### 2° Passo: Clique no disco escrito "Install Linux Mint".
-![Alt text](image-6.png)
+![Alt text](foto/image-6.png)
 
 ### 3° Passo: Escolha a língua que você se comunica para facilitar sua interpretação ao ler as informações do sistema.
-![Alt text](image-7.png)
+![Alt text](foto/image-7.png)
 
 ### 4° Passo: Escolha o layout do teclado você prefere ou acha mais fácil de compreender.
-![Alt text](image-8.png)
+![Alt text](foto/image-8.png)
 
 ### 5° Passo: Instale o Codecs Multimídia para exibir formatos de vídeo e renderizar alguns sites da web.!
-[Alt text](image-9.png)
+![Alt text](foto/image-9.png)
 
-### 6° Passo: Escolha o tipo de instalação, é bom selecionar o "Apagar disco e reinstalar o Linux Mint".
-![Alt text](image-10.png)
+### 6° Passo: Escolha o tipo de instalação, é bom selecionar 
+![Alt text](foto/image-10.png)
 
 ### 7° Passo: Após selecionar o tipo de instalação, clique em confirmar.
-![Alt text](image-11.png)
+![Alt text](foto/image-11.png)
 
 ### 8° Passo: No mapa, selecione o local onde você está.
-![Alt text](image-12.png)
+![Alt text](foto/image-12.png)
 
 ### 9° Passo: Agora apresente seu nome no computador, crie um nome para o seu computador, crie um nome de usuário, crie uma senha e reescreva a senha novamente para confirma-la.
-![Alt text](image-13.png)
+![Alt text](foto/image-13.png)
 
 ### 10° Passo: Espere carregar a instalação, e após a conclusão clique em "Reiniciar agora" para reiniciar o computador.
-![Alt text](image-14.png)![Alt text](image-15.png)
+![Alt text](foto/image-14.png)![Alt text](foto/image-15.png)
 
 ### 11° Após ser reinicializado, pressione a tecla "enter" para acionar o computador.
-![Alt text](image-16.png)
+![Alt text](foto/image-16.png)
 
 
 ### O Linux Mint é uma distribuição Linux baseada no Ubuntu e Debian, projetada para oferecer uma experiência de computação fácil de usar, estável e completa para usuários domésticos e empresariais. Aqui estão alguns pontos-chave sobre o Linux Mint:
